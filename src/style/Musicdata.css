@@ -1,0 +1,42 @@
+.container {
+  margin-top: 30px;
+}
+.cbody {
+  height: 250px;
+}
+.col .div {
+  margin-top: 20px;
+}
+.row .col .fas {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.tag {
+  text-align: center;
+  font-weight: 700;
+}
+.name {
+  margin-top: 10px;
+  text-align: center;
+}
+.description {
+  margin-top: 10px;
+  font-size: 15px;
+  text-align: center;
+}
+.cbody .btn {
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .cbody {
+    height: auto;
+  }
+}

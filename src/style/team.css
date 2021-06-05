@@ -1,0 +1,26 @@
+.team-box {
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  padding: 3px;
+  float: left;
+  margin-left: 0;
+}
+
+.header-font {
+  font-family: "Fredoka One", cursive;
+  font-weight: bolder;
+}
+.inner-font {
+  font-family: "Stoke", serif;
+  color: blue;
+  font-weight: bold;
+}
+.letter-space {
+  letter-spacing: 1px;
+  font-family: "Lobster", cursive;
+  color: gray;
+}
+.img-fluid {
+  height: 150px;
+  width: 150px;
+}

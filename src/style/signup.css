@@ -1,0 +1,51 @@
+.signup {
+  justify-content: center;
+  align-content: center;
+  margin-top: 20px;
+}
+.signup .container-sm {
+  margin-top: 20px;
+  max-width: 500px;
+  height: 530px;
+  margin-bottom: 20px !important;
+}
+
+.signup .container-sm .shadow-1 {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px 10px;
+  position: relative;
+}
+::placeholder {
+  color: black;
+  margin: auto;
+  padding: auto;
+}
+.f6 {
+  margin-top: 5px;
+}
+.signup .btn {
+  padding: 10px 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: black !important;
+}
+
+.fontuser {
+  position: relative;
+}
+
+.fontuser i {
+  position: absolute;
+  right: 15px;
+  top: 18px;
+  color: black;
+}
