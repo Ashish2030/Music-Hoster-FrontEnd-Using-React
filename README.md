@@ -44,7 +44,7 @@ This is a Application Where You Can Host Your Audio Or Video Files
 **Backend:** Spring 
 **Database:** PostgreSQL  
 
-And additional requirements are in [**requirements.txt**](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/requirements.txt) or [**Pipfile**](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/Pipfile).
+
 
 ## Demo
 
