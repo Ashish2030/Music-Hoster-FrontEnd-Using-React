@@ -92,7 +92,7 @@ Awesome! You have made your first contribution. If you have any doubts please le
 
 There are templates created by us to ease some of your work and for a structured documentation 
 
-#### Issue Templates - [Click Here](https://github.com/ashutoshkrris/iRead/issues/new/choose)
+#### Issue Templates - [Click Here](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues/new/choose)
 
 
 ### Pull Request Templates-[Click Here](.github/pull_request_template.md)
