@@ -76,8 +76,8 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 - If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/INSTRUCTIONS.md).
 - Please follow the [CODE OF CONDUCT](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_OF_CONDUCT.md)
 
-<h1 align="left">Project Maintainers👨🏫::</h1>
-
+<h1 align="left"></h1>
+## 💥 Project Maintainers👨🏫::
 
 | <img src = "https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/a.jpg" width = 500 height = 400> | <img src = "https://user-images.githubusercontent.com/61516051/125223627-b6f99780-e2e9-11eb-85e5-f6be4794e268.png" width = 500 height = 400> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
@@ -88,8 +88,8 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ashish2030/Music-Hoster-FrontEnd-Using-React" />
 </a>
-<h1 align="left">Open Source Programs we have been a part of:</h1>
 
+## 💥 Open Source Programs we have been a part of:
 <p align="center">
 <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/lgmsoc.png" width="25%"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/output-onlinepngtools.png" width="18%"></a>
