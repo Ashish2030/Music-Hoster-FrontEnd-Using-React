@@ -4,7 +4,7 @@ Contribution Guidlines
 
 We want contributing to iRead Blog Project to be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, new docs as well as updates, and more.
 
-Please note we have a [code of conduct](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_Of_CONDUCT.md), please follow it in all your interactions with the project.
 
 Before you begin:
 - Check out the [existing issues](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues).
