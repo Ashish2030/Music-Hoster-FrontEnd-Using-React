@@ -16,7 +16,7 @@ application which enables the users to upload media like videos. By using
 this web application people can store their media files and access it
 through the internet whenever they want to use it.
                 </p>
-                <a href="https://github.com/spandey1296/MusicHost-Frontend" className="p-4 fa-lg btn text-light bg-danger border ">View project
+                <a href="https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React" className="p-4 fa-lg btn text-light bg-danger border ">View project
                   <MDBIcon fab icon="clone" className="blue-text" /> 
 
                 </a>

@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 class Signup extends React.Component {
   register() {
     
-    fetch("http://localhost:8080/signup", {
+    fetch("/signup", {
       method: "POST",
       headers: {
         Accept: "application/json",
