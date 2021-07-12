@@ -61,19 +61,19 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
   * Fork the Repository
   * Clone the repository to your local machine
    
-   `$ git clone https://github.com/<your-github-username>/Music-Hoster-FrontEnd-Using-React`
+    `$ git clone https://github.com/<your-github-username>/Music-Hoster-FrontEnd-Using-React`
   * Change directory to 'Music-Hoster-FrontEnd-Using-React'
   
-   `$ cd Music-Hoster-FrontEnd-Using-React`
+    `$ cd Music-Hoster-FrontEnd-Using-React`
   * Add a reference to the original repository
     
-   `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React.git`
+    `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React.git`
   * Install dependencies
   
-   `$ yarn install`
+    `$ yarn install`
   * You are ready to go
   
-   `$ yarn start`
+    `$ yarn start`
   
 #### 💡️ **Pro Tip:** 
   * Always keep your master branch in sync with the main repository (by running `$ git pull upstream master` on your local master branch). 
