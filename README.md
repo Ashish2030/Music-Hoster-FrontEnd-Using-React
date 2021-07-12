@@ -96,7 +96,8 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 
 ## 💥 Our Valuable Contributors.
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashish2030/Music-Hoster-FrontEnd-Using-React" />
+  <img src="https://contributors-img.web.app/image?repo=ashish2030/Music-Hoster-FrontEnd-Using-React" />
+	
 </a>
 
 ## 💥 Open Source Programs we have been a part of:
