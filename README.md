@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 ## 💥 How to Contribute ?
 - If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CONTRIBUTING.md)🤝
 - If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/INSTRUCTIONS.md).
-- Please follow the [CODE OF CONDUCT](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_OF_CONDUCT.md)
+- Please follow the [CODE OF CONDUCT](https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_Of_CONDUCT.md)
 
 ## 💥 Project Maintainers👨🏫::
 
