@@ -11,7 +11,7 @@
     
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-brightgreen.svg"></a><br>
+<a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-ReactJS-brightgreen.svg"></a><br>
     
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/vigneshshettyin/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
@@ -41,7 +41,9 @@ This is a Application Where You Can Host Your Audio Or Video Files
 ## Technology Stack
 
 **Frontend:** React 
+
 **Backend:** Spring 
+
 **Database:** PostgreSQL  
 
 
@@ -56,13 +58,22 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 
 ### Setting-up the project
 
-  * Fork the Repository.
-  * Clone the repository to your local machine `$ git clone https://github.com/<your-github-username>/Music-Hoster-FrontEnd-Using-React`
-  * Change directory to iRead `$ cd Music-Hoster-FrontEnd-Using-React`
-  * Add a reference to the original repository  
-   `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React.git`
-  * After Cloning Repo type yarn install in cmd
-  * Then Yarn Strat
+  * Fork the Repository
+  * Clone the repository to your local machine
+   
+    `$ git clone https://github.com/<your-github-username>/Music-Hoster-FrontEnd-Using-React`
+  * Change directory to 'Music-Hoster-FrontEnd-Using-React'
+  
+    `$ cd Music-Hoster-FrontEnd-Using-React`
+  * Add a reference to the original repository
+    
+    `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React.git`
+  * Install dependencies
+  
+    `$ yarn install`
+  * You are ready to go
+  
+    `$ yarn start`
   
 #### 💡️ **Pro Tip:** 
   * Always keep your master branch in sync with the main repository (by running `$ git pull upstream master` on your local master branch). 
