@@ -9,6 +9,18 @@ Please note we have a [code of conduct](https://github.com/Ashish2030/Music-Host
 Before you begin:
 - Check out the [existing issues](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues).
 
+### Need some help regarding the basics?🤔
+
+You can refer to the following articles on basics of Git and Github and also contact the Project Mentors,
+in case you are stuck:
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Learn about Github issues](https://docs.github.com/en/issues)
+- [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
+
+
 ## Don't see your issue? Open one
 
 If you spot something new, open an issue using a [template](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues/new/choose). We'll use the issue to have a conversation about the problem you want to fix.
@@ -85,9 +97,18 @@ Our repo is very active, so it’s likely you’ll need to update your fork with
 * Set up repo and install dependencies.
 * Create your branch : `git checkout -b <branch-name>`
 
+
+### Tip from us😇
+
+It always takes time to understand and learn. So, do not worry at all. We know **you have got this**!💪
+We believe every contribution is 'worth it'. Always keep in mind that **No contribution is too small**,so
+just go ahead and be a part of our contributor family.
+
+
 <br>
 <h5 align="center">
 < Happy Contributing />
 <br>
 <a href="#">Ashish kumar</a> | © 2021
 </h5>
+
