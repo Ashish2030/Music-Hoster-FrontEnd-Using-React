@@ -53,6 +53,14 @@ This is a Application Where You Can Host Your Audio Or Video Files
 
 https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-86c0-6d3cd3a4bd03.mp4
 
+<p align="center">
+    <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/issues/new/choose">Request Feature</a>
+</p>
+
 
 
 ## Contributing
