@@ -26,6 +26,7 @@
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues"><img src="https://img.shields.io/github/issues/ashish2030/Music-Hoster-FrontEnd-Using-React?color=brightgreen"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashish2030/Music-Hoster-FrontEnd-Using-React?color=0059b3"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/pulls"><img src="https://img.shields.io/github/issues-pr/ashish2030/Music-Hoster-FrontEnd-Using-React?color=yellow"></a>
+	<a href="https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/commits/master"><img src="https://img.shields.io/github/last-commit/Ashish2030/Music-Hoster-FrontEnd-Using-React"></a> 
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Music-Hoster-FrontEnd-Using-React?color=brightgreen"></a> 
 </div>
 This is a Application Where You Can Host Your Audio Or Video Files
