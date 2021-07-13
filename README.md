@@ -29,8 +29,7 @@
 	<a href="https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/commits/master"><img src="https://img.shields.io/github/last-commit/Ashish2030/Music-Hoster-FrontEnd-Using-React"></a> 
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Music-Hoster-FrontEnd-Using-React?color=brightgreen"></a> 
 </div>
-This is a Application Where You Can Host Your Audio Or Video Files
-
+:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ᴍᴜꜱɪᴄ ʜᴏꜱᴛᴇʀ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ɪ ᴜꜱᴇᴅ ʀᴇᴀᴄᴛ ᴊꜱ ꜰᴏʀ ʙᴜɪʟᴛ ɪᴛꜱ ꜰʀᴏɴᴛᴇɴᴅ 💻 🎯 🚀
 
 ## Features of Music Hoster 
  Currently we support the following features :
