@@ -95,7 +95,7 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
 - If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/INSTRUCTIONS.md).
 - Please follow the [CODE OF CONDUCT](https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_Of_CONDUCT.md)
 
-## 💥 Project Maintainers👨🏫::
+## 💥 Project Maintainers👨🏫:
 
 | <img src = "https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/a.jpg" width = 500 height = 370> | <img src = "https://user-images.githubusercontent.com/61516051/125223627-b6f99780-e2e9-11eb-85e5-f6be4794e268.png" width = 500 height = 370> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
