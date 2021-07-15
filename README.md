@@ -36,7 +36,7 @@
 * Authentication and Authorization with JWT 
 * Signup Login Page
 * Update Page
-* Show Page
+* Show Page.
 
 ## Technology Stack
 
