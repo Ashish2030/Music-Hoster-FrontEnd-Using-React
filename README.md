@@ -12,14 +12,12 @@
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-ReactJS-brightgreen.svg"></a><br>
-    
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/vigneshshettyin/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/github/repo-size/ashish2030/Music-Hoster-FrontEnd-Using-React.svg?label=Repo%20size&style=flat"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React"><img src="https://img.shields.io/tokei/lines/github/ashish2030/Music-Hoster-FrontEnd-Using-React?color=yellow&label=Lines%20of%20Code"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL_2.0-brightgreen.svg?v=103"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Music-Hoster-FrontEnd-Using-React"></a>
-  
+<a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Music-Hoster-FrontEnd-Using-React"></a><br/>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashish2030/Music-Hoster-FrontEnd-Using-React?color=brightgreen"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/stargazers"><img src="https://img.shields.io/github/stars/ashish2030/Music-Hoster-FrontEnd-Using-React?color=0059b3"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-FrontEnd-Using-React/network/members"><img src="https://img.shields.io/github/forks/ashish2030/Music-Hoster-FrontEnd-Using-React?color=yellow"></a>
