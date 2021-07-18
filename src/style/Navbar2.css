@@ -13,11 +13,23 @@
 .navbar-nav .nav-item .nav-link {
   font-size: 20px;
   font-weight: 700;
+  width:100px;
   text-transform: uppercase;
   color: #3ed9fa;
+  background-color: #111;
+  border-radius: 50px;
+  color: #e0e0e0 !important;
 }
 
 .navbar-nav .nav-item .nav-link:hover {
-  background-color: white;
-  color: black !important;
+  width:100px;
+  color: #e0e0e0 !important;
+  border-radius: 50px;
+  background: #ff3547;
+}
+
+.main-nav-active{
+  width:100px;
+  border-radius: 50px;
+  background: #ff3547 !important;
 }

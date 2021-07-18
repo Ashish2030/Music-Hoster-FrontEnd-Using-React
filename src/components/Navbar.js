@@ -3,7 +3,7 @@ import {withRouter} from "react-router-dom";
 import React from 'react';
 import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../style/Navbar.css";
-
+import {NavLink} from 'react-router-dom';
 
 class Navbar extends React.Component{
   search(){
@@ -41,19 +41,20 @@ class Navbar extends React.Component{
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <NavLink exact to="/" className="nav-link" 
+                activeClassName="main-nav-active">
                   Home
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/Signup">
+                <NavLink exact to="/Signup" className="nav-link" activeClassName="main-nav-active">
                   SignUp
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/login">
+                <NavLink exact to="/login"  className="nav-link" activeClassName="main-nav-active">
                   Login
-                </Link>
+                </NavLink>
               </li>
               
             </ul>

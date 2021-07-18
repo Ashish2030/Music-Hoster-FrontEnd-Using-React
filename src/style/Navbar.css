@@ -10,22 +10,33 @@
 .nav-item {
   margin-left: 20px;
 }
-.navbar-nav .nav-item .nav-link {
-  font-size: 20px;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #3ed9fa;
-}
-
-.navbar-nav .nav-item .nav-link:hover {
-  background-color: white !important;
-  color: black !important;
-}
-
 .navbar-search-btn {
   float: left !important;
   margin-left: 0 !important;
   margin-top: 0 !important;
   height: 38px !important;
   box-shadow: none !important;
+}
+.navbar-nav .nav-item .nav-link {
+  font-size: 20px;
+  font-weight: 700;
+  width: 100px;
+  text-transform: uppercase;
+  color: #3ed9fa;
+  background-color: #111;
+  border-radius: 50px;
+  color: #e0e0e0 !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  width:100px;
+  color: #e0e0e0 !important;
+  border-radius: 50px;
+  background: #ff3547;
+}
+.main-nav-active{
+  width:100px;
+  background:  #ff3547 !important;
+  border-radius: 50px;
+
 }
